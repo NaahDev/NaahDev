@@ -1,120 +1,82 @@
-# 🌟 Olá, Sou a Anna Clara
+<div align="center">
 
-🎓 Estudante de **Ciência da Computação**<br>
-💻 Desenvolvedora em formação<br>
-💜 Apaixonada em **Desenvolvimento de Software, Inteligência Artificial e Cibersegurança**<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=%3E+whoami;Anna+Clara;Desenvolvedora+em+forma%C3%A7%C3%A3o;Software+%C2%B7+IA+%C2%B7+Ciberseguran%C3%A7a" alt="Typing SVG" />
 
----
+![status](https://img.shields.io/badge/status-online-8B5CF6?style=flat-square&labelColor=0D0A14)
+![local](https://img.shields.io/badge/S%C3%A3o_Paulo-BR-C084FC?style=flat-square&labelColor=0D0A14)
+![curso](https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-UNINOVE-8B5CF6?style=flat-square&labelColor=0D0A14)
 
-## 👩‍💻 Sobre mim
-
-Gosto de transformar problemas em soluções através da programação e vejo cada projeto como uma oportunidade de aprender algo novo.
-
-Atualmente estudo e desenvolvo projetos buscando evoluir minhas habilidades técnicas, criando aplicações funcionais, intuitivas e bem estruturadas.
-
-Atualmente, também venho ampliando meus conhecimentos na área de Segurança da Informação e conquistei o certificado Safety & Security (DL-00-D02).
-
-Acredito que a prática é uma das melhores formas de aprender, por isso estou constantemente desenvolvendo projetos e explorando novas tecnologias.
+</div>
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+### `anna@github:~$ whoami`
 
-### 💻 Linguagens e desenvolvimento
+```text
+> Anna Clara
+> Estudante de Ciência da Computação
+> Desenvolvedora em formação, explorando desenvolvimentode software, IA e cibersegurança.
+```
+
+### `anna@github:~$ cat skills.txt`
+
+```text
+[linguagens]   Python · C · JavaScript · HTML · CSS · SQL
+[backend]      Flask · SQLite · MySQL
+[ferramentas]  Git · GitHub · Docker
+[conceitos]    POO · LGPD · Cibersegurança
+[cloud]        AWS Cloud Practitioner (cursando)
+```
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
-  <img src="https://skillicons.dev/icons?i=c" width="50"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://img.shields.io/badge/Python-0D0A14?style=for-the-badge&logo=python&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/C-0D0A14?style=for-the-badge&logo=c&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/JavaScript-0D0A14?style=for-the-badge&logo=javascript&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/Flask-0D0A14?style=for-the-badge&logo=flask&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/SQLite-0D0A14?style=for-the-badge&logo=sqlite&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/MySQL-0D0A14?style=for-the-badge&logo=mysql&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/Git-0D0A14?style=for-the-badge&logo=git&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/Docker-0D0A14?style=for-the-badge&logo=docker&logoColor=C084FC" />
 </p>
 
-### ⚙️ Frameworks e bibliotecas
+### `anna@github:~$ ls projects/`
+
+```text
+📄 leitor-ocr/
+⚡ flashrevision/
+🌐 portfolio/
+```
+
+| Projeto | Descrição | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| 📄 **Leitor de Textos OCR** | Aplicação web que extrai texto de imagens e PDFs | `Python` `Flask` `OCR` | [GitHub](https://github.com/NaahDev/Leitor_de_textos) |
+| ⚡ **FlashRevision** | Plataforma de estudos com flashcards interativos para revisar conteúdos de tecnologia e idiomas | `Python` `SQL` | [GitHub](https://github.com/NaahDev/FlashRevision) |
+| 🌐 **Portfólio** | Meu portfólio pessoal | `HTML` `CSS` `JavaScript` | [Ver site](https://naahdev.github.io/portfolio) |
+
+### `anna@github:~$ cat certifications.log`
+
+```text
+[✔] Safe & Security (DL-00-D02) ........ Open EDG
+[✔] Digital Safety and Security Awareness ........ Cisco and Open EDG
+[✔] Segurança Cibernética e CyBR (Princípios de Cibersegurança) ........ SENAI
+[✔] Site Web e POO ........ Fundação Bradesco
+[✔] LGPD ........ Fundação Bradesco
+[…] AWS Cloud Practitioner ........ (em andamento)
+[…] Cloud Fundamentals (FIAP) ........ (em andamento)
+```
+
+### `anna@github:~$ ./contact.sh`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask" width="50"/>
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <a href="https://naahdev.github.io/portfolio"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0D0A14?style=for-the-badge&logo=googlechrome&logoColor=C084FC" /></a>
+  <a href="https://www.linkedin.com/in/naahdev/"><img src="https://img.shields.io/badge/LinkedIn-0D0A14?style=for-the-badge&logo=linkedin&logoColor=C084FC" /></a>
+  <a href="mailto:annaclaramo01@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D0A14?style=for-the-badge&logo=gmail&logoColor=C084FC" /></a>
 </p>
 
-### 🗄️ Banco de dados
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-</p>
+```text
+root@anna:~$ _
+```
 
-### 🔧 Ferramentas e tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
-</p>
-
-### 📚 Conceitos
-
-* Programação Orientada a Objetos (POO)
-* CRUD
-* Desenvolvimento Web
-* APIs
-* Banco de Dados
-* Versionamento de código com Git
-* Fundamentos de Segurança da Informação
-
-### 🔐 Segurança
-
-Certificado: Safety & Security (DL-00-D02)
-
-### 🌎 Idiomas
-
-🇧🇷 Português<br>
-🇺🇸 Inglês<br>
-🇪🇸 Espanhol<br>
-
----
-
-## 🚀 Projetos
-
-### 📄 Leitor de Textos — OCR
-
-Sistema web desenvolvido com **Python e Flask** para extração de textos de imagens e arquivos PDF.
-
-**Tecnologias:**
-
-`Python` `Flask` `Pillow` `Tesseract OCR` `pdfplumber` `pdf2image`
-
-<br>
-
-<a href="https://leitor-ocr-x25j.onrender.com" target="_blank" rel="noopener noreferrer">
-  🔗 Acessar aplicação
-</a>
-
----
-
-### 🌐 Portfólio
-
-Meu site pessoal desenvolvido para apresentar minha trajetória, habilidades e projetos.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://annaxxt.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-  🔗 Acessar portfólio
-</a>
-
----
-
-## 📫 Contato
-
-📧 **Email:** <a href="mailto:annaclaramo01@gmail.com" target="_blank">[annaclaramo01@gmail.com](mailto:annaclaramo01@gmail.com)</a>
-
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/annaxxt/" target="_blank" rel="noopener noreferrer">linkedin.com/in/annaxxt</a>
-
-🐙 **GitHub:** <a href="https://github.com/Annaxxt" target="_blank" rel="noopener noreferrer">github.com/Annaxxt</a>
-
----
-
-⭐ Obrigada por visitar meu perfil!
+</div>
