@@ -61,8 +61,9 @@
 [✔] Segurança Cibernética e CyBR (Princípios de Cibersegurança) ........ SENAI
 [✔] Site Web e POO ........ Fundação Bradesco
 [✔] LGPD ........ Fundação Bradesco
+[✔] Cloud Fundamentals ........ FIAP
+[✔] Fundamentos em dados ........ CISCO
 […] AWS Cloud Practitioner ........ (em andamento)
-[…] Cloud Fundamentals (FIAP) ........ (em andamento)
 ```
 
 ### `anna@github:~$ ./contact.sh`
